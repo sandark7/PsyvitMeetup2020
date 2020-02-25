@@ -148,10 +148,10 @@ blockquote:before {
 .slide.label-header h2.shout {
   margin-left: 0;
   padding: 20px 0 30px;
-  font-size: 64px;
+  font-size: 62px;
   border: 1px solid #3f56cb;
   background: none;
-  letter-spacing: -5px;
+  letter-spacing: -1px;
 }
 .slide.label-header.bg h2 {
   background: none;
